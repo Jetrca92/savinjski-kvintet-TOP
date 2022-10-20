@@ -2,8 +2,7 @@ body {
     font-family: Roboto, "Lucida Sans", Tahoma;
     display: flex;
     flex-direction: column;
-
-
+    margin: 0px;
 }
 
     .header-container {
